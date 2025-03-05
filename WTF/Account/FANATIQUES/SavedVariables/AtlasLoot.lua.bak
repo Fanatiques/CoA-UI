@@ -1,0 +1,71 @@
+
+AtlasLootOptions = nil
+AtlasLootDB = {
+	["profile"] = {
+		["professions"] = {
+		},
+		["settingsProfile"] = "default",
+		["savedState"] = {
+		},
+		["LastBoss"] = {
+		},
+	},
+	["settingsProfiles"] = {
+		["default"] = {
+			["EquipCompare"] = false,
+			["NewsVersion"] = "v7.5.1",
+			["MerchantGlow"] = false,
+			["LootBrowserStyle"] = 1,
+			["txtSize"] = 12,
+			["minimap"] = {
+				["hide"] = false,
+			},
+			["showUnknownRecipeTooltip"] = true,
+			["LootBrowserScale"] = 1,
+			["Opaque"] = false,
+			["PartialMatching"] = true,
+			["SearchOn"] = {
+				["All"] = false,
+			},
+		},
+	},
+	["profiles"] = {
+		["Fanatiques - Leokk - Conquest of Azeroth Open"] = {
+			["professions"] = {
+			},
+			["settingsProfile"] = "default",
+			["savedState"] = {
+			},
+			["LastBoss"] = {
+			},
+		},
+	},
+}
+AtlasLootWishList = {
+	["Options"] = {
+		["Fanatiques"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["DefaultWishList"] = {
+				"Own", -- [1]
+				"AtlasLootWishList", -- [2]
+				1, -- [3]
+			},
+			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
+		},
+	},
+	["Shared"] = {
+		["Name"] = "Shared Wishlists",
+	},
+	["Own"] = {
+		["Name"] = "Wishlists",
+	},
+}
+AtlasLootFilterDB = {
+	["VanityFilters"] = {
+	},
+	["CraftingFilters"] = {
+	},
+}

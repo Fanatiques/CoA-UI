@@ -1,0 +1,17 @@
+
+Postal3DB = {
+	["global"] = {
+		["BlackBook"] = {
+			["alts"] = {
+				"Fanatiques|Leokk - Conquest of Azeroth Open|Horde|1|CULTIST", -- [1]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Fanatiques - Leokk - Conquest of Azeroth Open"] = "Fanatiques - Leokk - Conquest of Azeroth Open",
+	},
+	["profiles"] = {
+		["Fanatiques - Leokk - Conquest of Azeroth Open"] = {
+		},
+	},
+}

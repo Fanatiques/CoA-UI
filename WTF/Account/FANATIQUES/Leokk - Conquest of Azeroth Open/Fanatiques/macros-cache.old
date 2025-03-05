@@ -1,0 +1,4 @@
+MACRO 16777217 "1" INV_Misc_QuestionMark
+#showtooltip Tentacle of the Old Gods
+/cast [@mouseover] Tentacle of the Old Gods
+END
