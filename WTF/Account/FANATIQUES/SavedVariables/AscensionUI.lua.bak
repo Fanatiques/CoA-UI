@@ -1,0 +1,8 @@
+
+AscensionUI_DB = {
+	["QuickAccess"] = {
+		["Show"] = false,
+	},
+}
+AscensionUILDBIconDB = {
+}
